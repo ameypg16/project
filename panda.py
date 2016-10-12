@@ -36,7 +36,7 @@ plt.plot(b,c)
 plt.xlabel('X')
 plt.ylabel('Y')
 plt.title('Fluctuation')
-print ('plot for the fluctuation in the weight of panda' )"""
+print ('plot for the fluctuation in the weight of panda' )""" 
 f.close()                                                       #close the text file    
 plt.savefig('panda.png')                                        #save the png file    
 plt.show()                                                      #shows the figure
